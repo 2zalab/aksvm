@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "aksvm: Associated-kernel support vector machines"
+abstract: >-
+  Python package turning associated kernels (Beta, Gamma, Poisson, binomial,
+  discrete triangular, Conway-Maxwell-Poisson) into positive semi-definite
+  probability-product kernels for support vector machines on heterogeneous data.
+type: software
+authors:
+  - given-names: Isaac
+    family-names: Touza
+    email: isaac.touza@univ-maroua.cm
+    orcid: "https://orcid.org/0009-0003-6288-9458"
+    affiliation: "University of Maroua, Faculty of Science, Department of Mathematics-Computer Sciences; Laboratoire de Recherche en Informatique (LARI), University of Maroua"
+  - given-names: Wanbitching Eric
+    family-names: Wansouwé
+    orcid: "https://orcid.org/0009-0005-4055-5689"
+    affiliation: "Institut Sous-Régional de Statistique et d'Économie Appliquée (ISSEA); Laboratoire de Recherche en Informatique (LARI), University of Maroua"
+repository-code: "https://github.com/2zalab/aksvm"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-15"
+keywords:
+  - associated kernels
+  - support vector machines
+  - positive semi-definite kernels
+  - probability product kernels
+  - mixed data
+preferred-citation:
+  type: article
+  status: in-preparation
+  title: "Associated-Kernel Support Vector Machines for Nonlinear Classification of Heterogeneous Data: Construction, Theory, and Empirical Evaluation"
+  authors:
+    - given-names: Isaac
+      family-names: Touza
+      orcid: "https://orcid.org/0009-0003-6288-9458"
+    - given-names: Wanbitching Eric
+      family-names: Wansouwé
+      orcid: "https://orcid.org/0009-0005-4055-5689"
+  year: 2026
